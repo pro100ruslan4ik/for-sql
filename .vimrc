@@ -88,4 +88,7 @@ ab text         TEXT
 ab upd          UPDATE
 ab update       UPDATE
 
+ab val          VALUES
+ab values       VALUES
+
 ab where        WHERE
