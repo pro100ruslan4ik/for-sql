@@ -79,6 +79,8 @@ ab right        RIGHT
 ab sel          SELECT
 ab select       SELECT
 
+ab set          SET
+
 ab tab          TABLE
 ab table        TABLE
 
