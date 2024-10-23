@@ -4,93 +4,93 @@
 
 "=========================================
 "
-ab add          ADD
+iabbrev add          ADD
 
-ab al           ALTER
-ab alt          ALTER
-ab alter        ALTER
+iabbrev al           ALTER
+iabbrev alt          ALTER
+iabbrev alter        ALTER
 
-ab as           AS
+iabbrev as           AS
 
-ab asc          ASC
+iabbrev asc          ASC
 
-ab by           BY
+iabbrev by           BY
 
-ab char         CHAR
+iabbrev char         CHAR
 
-ab constraint   CONSTRAINT
+iabbrev constraint   CONSTRAINT
 
-ab crdb         CREATE DATABASE
+iabbrev crdb         CREATE DATABASE
 
-ab cr           CREATE
-ab create       CREATE
+iabbrev cr           CREATE
+iabbrev create       CREATE
 
-ab db           DATABASE
-ab database     DATABASE
+iabbrev db           DATABASE
+iabbrev database     DATABASE
 
-ab del          DELETE
-ab delete       DELETE
+iabbrev del          DELETE
+iabbrev delete       DELETE
 
-ab desc         DESC
+iabbrev desc         DESC
 
-ab dr           DROP
-ab drop         DROP
+iabbrev dr           DROP
+iabbrev drop         DROP
 
-ab foreign      FOREIGN
+iabbrev foreign      FOREIGN
 
-ab fr           FROM
-ab from         FROM
+iabbrev fr           FROM
+iabbrev from         FROM
 
-ab in           INNER
-ab inner        INNER
+iabbrev in           INNER
+iabbrev inner        INNER
 
-ab ins          INSERT
-ab insert       INSERT
+iabbrev ins          INSERT
+iabbrev insert       INSERT
 
-ab int          INTEGER
-ab integer      INTEGER
+iabbrev int          INTEGER
+iabbrev integer      INTEGER
 
-ab into         INTO
+iabbrev into         INTO
 
-ab jo           JOIN
-ab joi          JOIN
-ab join         JOIN
+iabbrev jo           JOIN
+iabbrev joi          JOIN
+iabbrev join         JOIN
 
-ab key          KEY
+iabbrev key          KEY
 
-ab left         LEFT
+iabbrev left         LEFT
 
-ab nat          NATURAL
-ab natur        NATURAL
-ab natural      NATURAL
+iabbrev nat          NATURAL
+iabbrev natur        NATURAL
+iabbrev natural      NATURAL
 
-ab order        ORDER
+iabbrev order        ORDER
 
-ab out          OUTER
-ab outer        OUTER
+iabbrev out          OUTER
+iabbrev outer        OUTER
 
-ab primary      PRIMARY
+iabbrev primary      PRIMARY
 
-ab ref          REFERENCES
-ab references   REFERENCES
+iabbrev ref          REFERENCES
+iabbrev references   REFERENCES
 
-ab right        RIGHT
+iabbrev right        RIGHT
 
-ab sel          SELECT
-ab select       SELECT
+iabbrev sel          SELECT
+iabbrev select       SELECT
 
-ab set          SET
+iabbrev set          SET
 
-ab tab          TABLE
-ab table        TABLE
+iabbrev tab          TABLE
+iabbrev table        TABLE
 
-ab txt          TEXT
-ab text         TEXT
+iabbrev txt          TEXT
+iabbrev text         TEXT
 
-ab upd          UPDATE
-ab update       UPDATE
+iabbrev upd          UPDATE
+iabbrev update       UPDATE
 
-ab val          VALUES
-ab values       VALUES
+iabbrev val          VALUES
+iabbrev values       VALUES
 
-ab where        WHERE
+iabbrev where        WHERE
