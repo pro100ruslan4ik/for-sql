@@ -4,6 +4,8 @@
 
 "=========================================
 "
+ab add          ADD
+
 ab al           ALTER
 ab alt          ALTER
 ab alter        ALTER
@@ -68,6 +70,9 @@ ab out          OUTER
 ab outer        OUTER
 
 ab primary      PRIMARY
+
+ab ref          REFERENCES
+ab references   REFERENCES
 
 ab right        RIGHT
 
