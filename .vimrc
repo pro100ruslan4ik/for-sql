@@ -41,6 +41,9 @@ iabbrev foreign      FOREIGN
 iabbrev fr           FROM
 iabbrev from         FROM
 
+iabbrev ind          INDEX
+iabbrev index        INDEX
+
 iabbrev in           INNER
 iabbrev inner        INNER
 
