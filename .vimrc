@@ -44,7 +44,6 @@ iabbrev from         FROM
 iabbrev ind          INDEX
 iabbrev index        INDEX
 
-iabbrev in           INNER
 iabbrev inner        INNER
 
 iabbrev ins          INSERT
