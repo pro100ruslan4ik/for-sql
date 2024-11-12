@@ -2,6 +2,7 @@
 "set secure
 "set exrc
 
+set syntax=sql
 "=========================================
 "
 iabbrev add          ADD
@@ -41,8 +42,12 @@ iabbrev foreign      FOREIGN
 iabbrev fr           FROM
 iabbrev from         FROM
 
+iabbrev having       HAVING
+
 iabbrev ind          INDEX
 iabbrev index        INDEX
+
+iabbrev in           IN
 
 iabbrev inner        INNER
 
@@ -62,9 +67,15 @@ iabbrev key          KEY
 
 iabbrev left         LEFT
 
+iabbrev like         LIKE
+
 iabbrev nat          NATURAL
 iabbrev natur        NATURAL
 iabbrev natural      NATURAL
+
+iabbrev on           ON
+
+iabbrev or           OR
 
 iabbrev order        ORDER
 
